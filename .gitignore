@@ -1,0 +1,123 @@
+# emacs
+###################
+-*- mode: gitignore; -*-
+ *~
+ \#*\#
+ /.emacs.desktop
+ /.emacs.desktop.lock
+ *.elc
+ auto-save-list
+ tramp
+ .\#*
+
+# global tags
+###################
+GPATH
+GRTAGS
+GTAGS
+
+# Org-mode
+###################
+.org-id-locations
+*_archive
+# *.org
+# org
+
+# flymake
+###################
+*_flymake.*
+
+# eshell files
+###################
+/eshell/history
+/eshell/lastdir
+
+# elpa packages
+###################
+/elpa/
+
+# reftex files
+###################
+*.rel
+
+# AUCTeX auto folder
+###################
+/auto/
+
+# cask packages
+###################
+.cask/
+dist/
+
+# build dir
+###################
+# build/
+
+# flycheck
+###################
+flycheck_*.el
+
+# server auth directory
+###################
+/server/
+
+# projectiles files
+###################
+.projectile
+
+# editorconfig
+###################
+.editorconfig
+
+# directory configuration
+###################
+.dir-locals.el
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Temporary files #
+###################
+*.swp
+*.swo
+*~
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.lock
+package-lock.json
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store*
+ehthumbs.db
+Icon?
+Thumbs.db
+*.gdb*
+
+# tmp
+tmp
+
+# doc
+doc
+
