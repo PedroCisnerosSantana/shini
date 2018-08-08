@@ -170,14 +170,14 @@ Or:
 
 # References
 
-[1] . https://elixir.bootlin.com/linux/v4.17.13/source
-[2] . https://github.com/mncoppola/suterusu
-[3] . http://phrack.org/issues/68/6.html#article  : Android platform based linux kernel rootkit, by dong-hoon you
-[4] . http://phrack.org/issues/68/11.html#article : Infecting loadable kernel modules, by styx^
-[5] . http://www.ouah.org/LKM_HACKING.html
-[6] . http://phrack.org/issues/50/5.html#article  : Abuse of the Linux Kernel for Fun and Profit, by halflife
-[7] . http://phrack.org/issues/61/13.html#article : Hacking the Linux Kernel Network Stack, by bioforge 
-[8] . http://phrack.org/issues/61/10.html#article : Infecting loadable kernel modules, by truff
+1. https://elixir.bootlin.com/linux/v4.17.13/source
+2. https://github.com/mncoppola/suterusu
+3. http://phrack.org/issues/68/6.html#article  : Android platform based linux kernel rootkit, by dong-hoon you
+4. http://phrack.org/issues/68/11.html#article : Infecting loadable kernel modules, by styx^
+5. http://www.ouah.org/LKM_HACKING.html
+6. http://phrack.org/issues/50/5.html#article  : Abuse of the Linux Kernel for Fun and Profit, by halflife
+7. http://phrack.org/issues/61/13.html#article : Hacking the Linux Kernel Network Stack, by bioforge 
+8. http://phrack.org/issues/61/10.html#article : Infecting loadable kernel modules, by truff
 
 License
 ----
