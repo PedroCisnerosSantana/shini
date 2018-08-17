@@ -2,8 +2,8 @@
 #define _CONFIG_H
 
 #ifndef SHINI_PREFIX
-#define SHINI_PREFIX "._w00t1_"
-#define SHINI_PREFIX_LEN 10
+#define SHINI_PREFIX "._shini_"
+#define SHINI_PREFIX_LEN 7
 #endif
 
 #ifndef SHINI_DIR
