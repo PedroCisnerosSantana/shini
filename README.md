@@ -55,11 +55,11 @@ modifying the name of the programs and placing them in the folder created previo
 
 # Standard Configuration
 
-- prefix : .\_w00t1\_
-- path   : /etc/opt/.\_w00t1\_/
-- helper : /etc/opt/.\_w00t1\_/._w00t1_helper
-- cb     : /etc/opt/.\_w00t1\_/._w00t1_cb
-- cc     : /etc/opt/._w00t1_/._w00t1_cc
+- prefix : .\_shini\_
+- path   : /etc/opt/.\_shini\_/
+- helper : /etc/opt/.\_shini\_/._shini_helper
+- cb     : /etc/opt/.\_shini\_/._shini_cb
+- cc     : /etc/opt/.\_shini\_/._shini_cc
 
 Read shini/misc/install.sh and shini/src/include/config.h files for more details.
 
@@ -73,8 +73,8 @@ $ ./cc
 or after run the install script.
 
 ```console
-cd /etc/opt/._w00t1_/
-./._w00t1_cc
+cd /etc/opt/._shini_/
+./._shini_cc
 ```
 
 The way to use it with examples will appear on the console.

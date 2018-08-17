@@ -7,7 +7,7 @@ set -x;
 SHINI_PATH="/etc/opt"
 
 # prefix
-SHINI_PREFIX="._w00t1_";
+SHINI_PREFIX="._shini_";
 
 # ._w00t1_helper
 SHINI_HELPER=$SHINI_PREFIX"helper";
